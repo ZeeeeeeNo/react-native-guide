@@ -267,6 +267,9 @@ https://github.com/Bob1993/mdcc-client
 * **Leanote for iOS(云笔记)**
 https://github.com/leanote/leanote-ios-rn
 
+* **React Native实现阅读器** *
+https://github.com/ZeeeeeeNo/ReactNativeEveryDayRead
+
 * **ReactNativeRubyChina**
 https://github.com/henter/ReactNativeRubyChina
 
